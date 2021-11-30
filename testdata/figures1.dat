@@ -1,0 +1,5 @@
+data
+3
+circle 3 5 2 red
+rect 4 2 8 7 orange
+triangle 2 4 6 3 9 8 yellow

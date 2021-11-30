@@ -1,0 +1,26 @@
+Source array:
+1 Circle   S=314.158997 [2 ; 7] R=10 red
+2 Rect     S=4.000000 [1 ; 5] - [2 ; 9] orange
+3 Triangle S=21.000011 [10 ; 10] - [5 ; 1] - [2 ; 4] yellow
+4 Triangle S=6.000000 [6 ; 4] - [1 ; 8] - [4 ; 8] orange
+5 Circle   S=153.937912 [2 ; 3] R=7 blueblue
+6 Triangle S=9.500000 [4 ; 9] - [7 ; 7] - [2 ; 4] orange
+7 Rect     S=15.000000 [2 ; 2] - [5 ; 7] orange
+8 Triangle S=0.999998 [6 ; 10] - [2 ; 8] - [3 ; 9] red
+9 Circle   S=78.539749 [6 ; 6] R=5 green
+10 Circle   S=314.158997 [7 ; 7] R=10 violet
+11 Circle   S=3.141590 [10 ; 1] R=1 blueblue
+12 Circle   S=12.566360 [10 ; 5] R=2 blue
+Sorted array:
+1 Triangle S=0.999998 [6 ; 10] - [2 ; 8] - [3 ; 9] red
+2 Circle   S=3.141590 [10 ; 1] R=1 blueblue
+3 Rect     S=4.000000 [1 ; 5] - [2 ; 9] orange
+4 Triangle S=6.000000 [6 ; 4] - [1 ; 8] - [4 ; 8] orange
+5 Triangle S=9.500000 [4 ; 9] - [7 ; 7] - [2 ; 4] orange
+6 Circle   S=12.566360 [10 ; 5] R=2 blue
+7 Rect     S=15.000000 [2 ; 2] - [5 ; 7] orange
+8 Triangle S=21.000011 [10 ; 10] - [5 ; 1] - [2 ; 4] yellow
+9 Circle   S=78.539749 [6 ; 6] R=5 green
+10 Circle   S=153.937912 [2 ; 3] R=7 blueblue
+11 Circle   S=314.158997 [2 ; 7] R=10 red
+12 Circle   S=314.158997 [7 ; 7] R=10 violet

@@ -1,0 +1,202 @@
+Source array:
+1 Triangle S=0.000000 [9 ; 3] - [3 ; 8] - [9 ; 3] orange
+2 Rect     S=20.000000 [3 ; 4] - [8 ; 8] violet
+3 Rect     S=0.000000 [4 ; 1] - [4 ; 1] yellow
+4 Rect     S=32.000000 [5 ; 2] - [9 ; 10] violet
+5 Rect     S=0.000000 [7 ; 5] - [2 ; 5] blueblue
+6 Triangle S=6.000001 [4 ; 7] - [10 ; 7] - [5 ; 9] blue
+7 Rect     S=32.000000 [10 ; 1] - [6 ; 9] blue
+8 Triangle S=18.000002 [9 ; 1] - [3 ; 2] - [9 ; 7] blueblue
+9 Circle   S=12.566360 [3 ; 3] R=2 orange
+10 Circle   S=3.141590 [3 ; 6] R=1 red
+11 Triangle S=1.500001 [10 ; 9] - [10 ; 6] - [9 ; 8] yellow
+12 Circle   S=201.061768 [7 ; 2] R=8 orange
+13 Triangle S=0.500002 [7 ; 6] - [9 ; 9] - [8 ; 8] green
+14 Triangle S=5.999999 [4 ; 8] - [9 ; 5] - [5 ; 5] blueblue
+15 Triangle S=2.500002 [8 ; 4] - [9 ; 5] - [3 ; 4] blueblue
+16 Rect     S=8.000000 [2 ; 6] - [6 ; 4] blueblue
+17 Triangle S=0.999999 [7 ; 5] - [5 ; 8] - [5 ; 7] yellow
+18 Rect     S=0.000000 [10 ; 3] - [10 ; 3] blueblue
+19 Circle   S=254.468796 [1 ; 6] R=9 blueblue
+20 Rect     S=0.000000 [8 ; 3] - [3 ; 3] blueblue
+21 Circle   S=314.158997 [8 ; 5] R=10 blue
+22 Triangle S=16.000006 [8 ; 3] - [9 ; 9] - [3 ; 5] violet
+23 Circle   S=28.274311 [9 ; 10] R=3 blueblue
+24 Triangle S=14.000006 [1 ; 2] - [5 ; 3] - [1 ; 9] blue
+25 Triangle S=4.499999 [2 ; 3] - [7 ; 6] - [4 ; 6] orange
+26 Circle   S=28.274311 [10 ; 3] R=3 violet
+27 Circle   S=254.468796 [4 ; 5] R=9 orange
+28 Triangle S=9.499992 [6 ; 7] - [1 ; 10] - [8 ; 2] blueblue
+29 Rect     S=0.000000 [7 ; 8] - [7 ; 6] blueblue
+30 Circle   S=28.274311 [4 ; 2] R=3 blueblue
+31 Triangle S=2.000001 [7 ; 4] - [8 ; 8] - [8 ; 4] red
+32 Rect     S=0.000000 [9 ; 9] - [5 ; 9] red
+33 Circle   S=3.141590 [10 ; 2] R=1 yellow
+34 Triangle S=0.500001 [2 ; 4] - [5 ; 2] - [1 ; 5] yellow
+35 Triangle S=2.000000 [4 ; 6] - [3 ; 5] - [6 ; 4] blueblue
+36 Triangle S=7.999997 [1 ; 2] - [9 ; 4] - [5 ; 1] orange
+37 Triangle S=7.999997 [3 ; 2] - [5 ; 1] - [9 ; 7] violet
+38 Circle   S=28.274311 [3 ; 6] R=3 green
+39 Rect     S=4.000000 [1 ; 8] - [2 ; 4] orange
+40 Circle   S=113.097244 [6 ; 9] R=6 green
+41 Triangle S=2.500001 [3 ; 9] - [4 ; 6] - [1 ; 10] blue
+42 Triangle S=8.000002 [1 ; 2] - [8 ; 7] - [7 ; 4] yellow
+43 Triangle S=2.000008 [1 ; 9] - [2 ; 9] - [9 ; 5] blueblue
+44 Rect     S=5.000000 [2 ; 7] - [3 ; 2] yellow
+45 Rect     S=0.000000 [2 ; 6] - [2 ; 8] red
+46 Triangle S=16.999998 [4 ; 7] - [3 ; 2] - [10 ; 3] blue
+47 Triangle S=10.999995 [10 ; 8] - [6 ; 10] - [1 ; 7] blueblue
+48 Triangle S=8.000000 [10 ; 8] - [6 ; 3] - [2 ; 2] violet
+49 Rect     S=7.000000 [2 ; 6] - [9 ; 7] green
+50 Triangle S=4.499998 [7 ; 1] - [3 ; 2] - [4 ; 4] violet
+51 Triangle S=21.500000 [2 ; 9] - [8 ; 10] - [9 ; 3] green
+52 Rect     S=20.000000 [6 ; 1] - [1 ; 5] yellow
+53 Circle   S=78.539749 [10 ; 8] R=5 red
+54 Triangle S=5.999999 [8 ; 5] - [5 ; 8] - [7 ; 10] blue
+55 Circle   S=78.539749 [6 ; 5] R=5 red
+56 Rect     S=0.000000 [7 ; 10] - [7 ; 8] yellow
+57 Rect     S=10.000000 [10 ; 1] - [5 ; 3] blueblue
+58 Rect     S=2.000000 [2 ; 2] - [1 ; 4] green
+59 Circle   S=314.158997 [5 ; 4] R=10 yellow
+60 Circle   S=201.061768 [3 ; 6] R=8 violet
+61 Circle   S=28.274311 [10 ; 4] R=3 green
+62 Circle   S=78.539749 [1 ; 10] R=5 orange
+63 Circle   S=3.141590 [9 ; 6] R=1 red
+64 Rect     S=0.000000 [6 ; 5] - [6 ; 6] blueblue
+65 Rect     S=12.000000 [5 ; 6] - [1 ; 3] blueblue
+66 Rect     S=5.000000 [1 ; 7] - [2 ; 2] orange
+67 Circle   S=314.158997 [10 ; 6] R=10 red
+68 Rect     S=0.000000 [9 ; 8] - [3 ; 8] red
+69 Rect     S=0.000000 [6 ; 3] - [10 ; 3] blue
+70 Circle   S=3.141590 [9 ; 2] R=1 green
+71 Triangle S=6.999994 [10 ; 3] - [2 ; 6] - [8 ; 2] blueblue
+72 Rect     S=10.000000 [8 ; 10] - [6 ; 5] yellow
+73 Rect     S=12.000000 [3 ; 10] - [7 ; 7] yellow
+74 Rect     S=7.000000 [5 ; 3] - [4 ; 10] yellow
+75 Circle   S=201.061768 [3 ; 7] R=8 blue
+76 Circle   S=314.158997 [5 ; 8] R=10 orange
+77 Triangle S=0.000000 [2 ; 2] - [8 ; 5] - [8 ; 5] orange
+78 Triangle S=4.000001 [6 ; 5] - [10 ; 5] - [8 ; 7] violet
+79 Triangle S=3.000000 [8 ; 9] - [7 ; 3] - [7 ; 9] red
+80 Rect     S=20.000000 [5 ; 9] - [1 ; 4] yellow
+81 Circle   S=50.265442 [5 ; 2] R=4 yellow
+82 Circle   S=12.566360 [4 ; 1] R=2 blueblue
+83 Triangle S=28.999996 [2 ; 7] - [10 ; 9] - [7 ; 1] blue
+84 Rect     S=4.000000 [10 ; 7] - [9 ; 3] blueblue
+85 Rect     S=18.000000 [4 ; 7] - [10 ; 4] red
+86 Triangle S=2.499998 [7 ; 6] - [2 ; 2] - [2 ; 3] red
+87 Triangle S=1.000003 [5 ; 9] - [1 ; 7] - [6 ; 10] red
+88 Circle   S=113.097244 [6 ; 3] R=6 blue
+89 Circle   S=12.566360 [2 ; 5] R=2 violet
+90 Triangle S=2.000004 [4 ; 3] - [4 ; 4] - [8 ; 9] orange
+91 Triangle S=2.999998 [3 ; 10] - [2 ; 3] - [2 ; 9] violet
+92 Triangle S=16.499998 [8 ; 3] - [5 ; 8] - [2 ; 2] violet
+93 Rect     S=18.000000 [2 ; 7] - [8 ; 10] orange
+94 Circle   S=78.539749 [7 ; 5] R=5 green
+95 Triangle S=5.499996 [9 ; 7] - [8 ; 8] - [2 ; 3] blueblue
+96 Triangle S=8.000002 [4 ; 6] - [4 ; 2] - [8 ; 2] red
+97 Rect     S=35.000000 [2 ; 5] - [9 ; 10] red
+98 Circle   S=3.141590 [4 ; 3] R=1 yellow
+99 Rect     S=4.000000 [9 ; 5] - [8 ; 9] yellow
+100 Circle   S=78.539749 [3 ; 4] R=5 red
+Sorted array:
+1 Triangle S=0.000000 [9 ; 3] - [3 ; 8] - [9 ; 3] orange
+2 Rect     S=0.000000 [4 ; 1] - [4 ; 1] yellow
+3 Rect     S=0.000000 [7 ; 5] - [2 ; 5] blueblue
+4 Rect     S=0.000000 [10 ; 3] - [10 ; 3] blueblue
+5 Rect     S=0.000000 [8 ; 3] - [3 ; 3] blueblue
+6 Rect     S=0.000000 [7 ; 8] - [7 ; 6] blueblue
+7 Rect     S=0.000000 [9 ; 9] - [5 ; 9] red
+8 Rect     S=0.000000 [2 ; 6] - [2 ; 8] red
+9 Rect     S=0.000000 [7 ; 10] - [7 ; 8] yellow
+10 Rect     S=0.000000 [6 ; 5] - [6 ; 6] blueblue
+11 Rect     S=0.000000 [9 ; 8] - [3 ; 8] red
+12 Rect     S=0.000000 [6 ; 3] - [10 ; 3] blue
+13 Triangle S=0.000000 [2 ; 2] - [8 ; 5] - [8 ; 5] orange
+14 Triangle S=0.500001 [2 ; 4] - [5 ; 2] - [1 ; 5] yellow
+15 Triangle S=0.500002 [7 ; 6] - [9 ; 9] - [8 ; 8] green
+16 Triangle S=0.999999 [7 ; 5] - [5 ; 8] - [5 ; 7] yellow
+17 Triangle S=1.000003 [5 ; 9] - [1 ; 7] - [6 ; 10] red
+18 Triangle S=1.500001 [10 ; 9] - [10 ; 6] - [9 ; 8] yellow
+19 Triangle S=2.000000 [4 ; 6] - [3 ; 5] - [6 ; 4] blueblue
+20 Rect     S=2.000000 [2 ; 2] - [1 ; 4] green
+21 Triangle S=2.000001 [7 ; 4] - [8 ; 8] - [8 ; 4] red
+22 Triangle S=2.000004 [4 ; 3] - [4 ; 4] - [8 ; 9] orange
+23 Triangle S=2.000008 [1 ; 9] - [2 ; 9] - [9 ; 5] blueblue
+24 Triangle S=2.499998 [7 ; 6] - [2 ; 2] - [2 ; 3] red
+25 Triangle S=2.500001 [3 ; 9] - [4 ; 6] - [1 ; 10] blue
+26 Triangle S=2.500002 [8 ; 4] - [9 ; 5] - [3 ; 4] blueblue
+27 Triangle S=2.999998 [3 ; 10] - [2 ; 3] - [2 ; 9] violet
+28 Triangle S=3.000000 [8 ; 9] - [7 ; 3] - [7 ; 9] red
+29 Circle   S=3.141590 [3 ; 6] R=1 red
+30 Circle   S=3.141590 [10 ; 2] R=1 yellow
+31 Circle   S=3.141590 [9 ; 6] R=1 red
+32 Circle   S=3.141590 [9 ; 2] R=1 green
+33 Circle   S=3.141590 [4 ; 3] R=1 yellow
+34 Rect     S=4.000000 [1 ; 8] - [2 ; 4] orange
+35 Rect     S=4.000000 [10 ; 7] - [9 ; 3] blueblue
+36 Rect     S=4.000000 [9 ; 5] - [8 ; 9] yellow
+37 Triangle S=4.000001 [6 ; 5] - [10 ; 5] - [8 ; 7] violet
+38 Triangle S=4.499998 [7 ; 1] - [3 ; 2] - [4 ; 4] violet
+39 Triangle S=4.499999 [2 ; 3] - [7 ; 6] - [4 ; 6] orange
+40 Rect     S=5.000000 [2 ; 7] - [3 ; 2] yellow
+41 Rect     S=5.000000 [1 ; 7] - [2 ; 2] orange
+42 Triangle S=5.499996 [9 ; 7] - [8 ; 8] - [2 ; 3] blueblue
+43 Triangle S=5.999999 [4 ; 8] - [9 ; 5] - [5 ; 5] blueblue
+44 Triangle S=5.999999 [8 ; 5] - [5 ; 8] - [7 ; 10] blue
+45 Triangle S=6.000001 [4 ; 7] - [10 ; 7] - [5 ; 9] blue
+46 Triangle S=6.999994 [10 ; 3] - [2 ; 6] - [8 ; 2] blueblue
+47 Rect     S=7.000000 [2 ; 6] - [9 ; 7] green
+48 Rect     S=7.000000 [5 ; 3] - [4 ; 10] yellow
+49 Triangle S=7.999997 [3 ; 2] - [5 ; 1] - [9 ; 7] violet
+50 Triangle S=7.999997 [1 ; 2] - [9 ; 4] - [5 ; 1] orange
+51 Rect     S=8.000000 [2 ; 6] - [6 ; 4] blueblue
+52 Triangle S=8.000000 [10 ; 8] - [6 ; 3] - [2 ; 2] violet
+53 Triangle S=8.000002 [1 ; 2] - [8 ; 7] - [7 ; 4] yellow
+54 Triangle S=8.000002 [4 ; 6] - [4 ; 2] - [8 ; 2] red
+55 Triangle S=9.499992 [6 ; 7] - [1 ; 10] - [8 ; 2] blueblue
+56 Rect     S=10.000000 [10 ; 1] - [5 ; 3] blueblue
+57 Rect     S=10.000000 [8 ; 10] - [6 ; 5] yellow
+58 Triangle S=10.999995 [10 ; 8] - [6 ; 10] - [1 ; 7] blueblue
+59 Rect     S=12.000000 [5 ; 6] - [1 ; 3] blueblue
+60 Rect     S=12.000000 [3 ; 10] - [7 ; 7] yellow
+61 Circle   S=12.566360 [3 ; 3] R=2 orange
+62 Circle   S=12.566360 [4 ; 1] R=2 blueblue
+63 Circle   S=12.566360 [2 ; 5] R=2 violet
+64 Triangle S=14.000006 [1 ; 2] - [5 ; 3] - [1 ; 9] blue
+65 Triangle S=16.000006 [8 ; 3] - [9 ; 9] - [3 ; 5] violet
+66 Triangle S=16.499998 [8 ; 3] - [5 ; 8] - [2 ; 2] violet
+67 Triangle S=16.999998 [4 ; 7] - [3 ; 2] - [10 ; 3] blue
+68 Rect     S=18.000000 [4 ; 7] - [10 ; 4] red
+69 Rect     S=18.000000 [2 ; 7] - [8 ; 10] orange
+70 Triangle S=18.000002 [9 ; 1] - [3 ; 2] - [9 ; 7] blueblue
+71 Rect     S=20.000000 [3 ; 4] - [8 ; 8] violet
+72 Rect     S=20.000000 [6 ; 1] - [1 ; 5] yellow
+73 Rect     S=20.000000 [5 ; 9] - [1 ; 4] yellow
+74 Triangle S=21.500000 [2 ; 9] - [8 ; 10] - [9 ; 3] green
+75 Circle   S=28.274311 [9 ; 10] R=3 blueblue
+76 Circle   S=28.274311 [10 ; 3] R=3 violet
+77 Circle   S=28.274311 [4 ; 2] R=3 blueblue
+78 Circle   S=28.274311 [3 ; 6] R=3 green
+79 Circle   S=28.274311 [10 ; 4] R=3 green
+80 Triangle S=28.999996 [2 ; 7] - [10 ; 9] - [7 ; 1] blue
+81 Rect     S=32.000000 [5 ; 2] - [9 ; 10] violet
+82 Rect     S=32.000000 [10 ; 1] - [6 ; 9] blue
+83 Rect     S=35.000000 [2 ; 5] - [9 ; 10] red
+84 Circle   S=50.265442 [5 ; 2] R=4 yellow
+85 Circle   S=78.539749 [10 ; 8] R=5 red
+86 Circle   S=78.539749 [6 ; 5] R=5 red
+87 Circle   S=78.539749 [1 ; 10] R=5 orange
+88 Circle   S=78.539749 [7 ; 5] R=5 green
+89 Circle   S=78.539749 [3 ; 4] R=5 red
+90 Circle   S=113.097244 [6 ; 9] R=6 green
+91 Circle   S=113.097244 [6 ; 3] R=6 blue
+92 Circle   S=201.061768 [7 ; 2] R=8 orange
+93 Circle   S=201.061768 [3 ; 6] R=8 violet
+94 Circle   S=201.061768 [3 ; 7] R=8 blue
+95 Circle   S=254.468796 [1 ; 6] R=9 blueblue
+96 Circle   S=254.468796 [4 ; 5] R=9 orange
+97 Circle   S=314.158997 [8 ; 5] R=10 blue
+98 Circle   S=314.158997 [5 ; 4] R=10 yellow
+99 Circle   S=314.158997 [10 ; 6] R=10 red
+100 Circle   S=314.158997 [5 ; 8] R=10 orange

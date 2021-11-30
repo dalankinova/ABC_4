@@ -1,0 +1,8 @@
+Source array:
+1 Circle   S=12.566360 [3 ; 5] R=2 red
+2 Rect     S=20.000000 [4 ; 2] - [8 ; 7] orange
+3 Triangle S=11.500001 [2 ; 4] - [6 ; 3] - [9 ; 8] yellow
+Sorted array:
+1 Triangle S=11.500001 [2 ; 4] - [6 ; 3] - [9 ; 8] yellow
+2 Circle   S=12.566360 [3 ; 5] R=2 red
+3 Rect     S=20.000000 [4 ; 2] - [8 ; 7] orange

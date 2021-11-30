@@ -1,0 +1,9 @@
+data
+7
+circle 3 5 2 red
+rect 4 2 8 7 orange
+triangle 2 4 6 3 9 8 yellow
+circle 4 4 3 green
+rect 5 3 7 6 blue
+triangle 3 7 3 2 8 9 blueblue
+circle 4 4 1 violet
